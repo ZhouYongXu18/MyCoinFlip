@@ -1,0 +1,15 @@
+release/chooselevelscene.o
+release/datefile.o
+release/main.o
+release/mainscene.o
+release/mycoin.o
+release/mypushbutton.o
+release/playscene.o
+release/qrc_res.o
+release/qrc_ress.o
+release/moc_chooselevelscene.o
+release/moc_datefile.o
+release/moc_mainscene.o
+release/moc_mycoin.o
+release/moc_mypushbutton.o
+release/moc_playscene.o
